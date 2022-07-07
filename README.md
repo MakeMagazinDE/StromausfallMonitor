@@ -5,9 +5,9 @@
 Maker Media GmbH
 *** 
 
-#Stromausfall-Monitor mit dem Pico
+# Stromausfall-Monitor mit dem Pico
 
-##Eine vereiste Tiefkühltruhe, Lücken in den Server-Logs, abgestürzte Rechner: Gab es einen Stromausfall während der Abwesenheit? Eine simple Schaltung mit einem Raspberry Pi Pico und ausgefeiltem Python-Code kann einen Stromausfall feststellen und dokumentieren und so vor Ungemach schützen oder als Basis für eigene Entwicklungen ähnlicher Anwendungen dienen.
+## ine vereiste Tiefkühltruhe, Lücken in den Server-Logs, abgestürzte Rechner: Gab es einen Stromausfall während der Abwesenheit? Eine simple Schaltung mit einem Raspberry Pi Pico und ausgefeiltem Python-Code kann einen Stromausfall feststellen und dokumentieren und so vor Ungemach schützen oder als Basis für eigene Entwicklungen ähnlicher Anwendungen dienen.
 
 ![Picture](/aufmacher_github.jpg) 
 
