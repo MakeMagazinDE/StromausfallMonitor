@@ -5,9 +5,9 @@
 Maker Media GmbH
 *** 
 
-# Magnetischer Vielzweck-Testaufbau aus Make 3/22
+#Stromausfall-Monitor mit dem Pico
 
-### In der Versuchsphase wuchern Testaufbauten aus einzelnen Modulen gerne über den kompletten Arbeitstisch. Der Versuch, die fragilen Konstrukte kurz beiseite zu räumen, resultiert in Fehlern oder gar Kurzschlüssen. Dies kann mit einer magnetischen Testfläche verhindert werden, die sich auch noch einfach zur Seite schieben lässt.
+##Eine vereiste Tiefkühltruhe, Lücken in den Server-Logs, abgestürzte Rechner: Gab es einen Stromausfall während der Abwesenheit? Eine simple Schaltung mit einem Raspberry Pi Pico und ausgefeiltem Python-Code kann einen Stromausfall feststellen und dokumentieren und so vor Ungemach schützen oder als Basis für eigene Entwicklungen ähnlicher Anwendungen dienen.
 
 ![Picture](/aufmacher_github.jpg) 
 
