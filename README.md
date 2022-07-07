@@ -11,6 +11,6 @@ Maker Media GmbH
 
 ![Picture](/aufmacher_github.jpg) 
 
-Hier finden Sie die 3D-Druckdaten in Quellcode für [OpenSCAD](https://openscad.org/) und als druckbare STL. Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 3/22 ab Seite 102](https://www.heise.de/select/make/2022/3/2206315225987394714) zu lesen. 
+Hier finden Sie den Quellcode für den Pico-Strommonitor. Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/22 ab Seite 62](https://www.heise.de/select/make/2022/4/seite-62) zu lesen. 
 
 
