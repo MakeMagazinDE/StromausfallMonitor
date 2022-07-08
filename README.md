@@ -11,6 +11,6 @@ Maker Media GmbH
 
 ![Picture](/aufmacher_github.jpg) 
 
-Hier finden Sie den Quellcode für den Pico-Strommonitor. Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/22 ab Seite 62](https://www.heise.de/select/make/2022/4/seite-62) zu lesen. 
+Hier finden Sie den Quellcode für den Pico-Strommonitor. Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/22 ab Seite 62](https://www.heise.de/select/make/2022/4/2210114113783248063) zu lesen. 
 
 
